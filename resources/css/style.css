@@ -1,0 +1,88 @@
+.red {
+
+    color: red;
+
+    font-weight: bold;
+
+}
+
+.blue {
+
+    color: blue;
+
+}
+
+.green {color: green}
+
+.inner-wrapper {padding-top: 30px}
+
+.pd-list {width: 200px}
+
+.pd-add {padding-left: 10px}
+
+.add-table-wrap{padding-top: 10px}
+
+.table-title{float: left}
+
+.table-count{float: right; display: inline-flex}
+
+.clear{clear: both}
+
+.table-keywords{height: 190px}
+
+.custom-mt{margin-top: 10px;}
+
+.main-table{position: relative; width: 80%}
+
+.all-tables{margin-top: 50px;}
+
+.tab-name{float: left; width: 65%; text-align: right}
+
+.delete-wrap{float: left; width: 35%; text-align: right}
+
+.custom-table-col {margin-top: 15px}
+
+.char-current {font-weight: bold}
+
+.tab-name-d{text-align: center}
+
+.table-name-input{
+
+    border: 2px solid lightgray;
+
+    width: 75%;
+
+    display: inline-block;
+
+    padding: 4px;
+
+    border-radius: 9px;
+
+    text-align: center;
+
+}
+
+.del-tbl-btn{color: red; background: none; border: none; cursor: pointer; }
+
+.tab-del-icon{line-height: inherit !important; font-size: 22px !important;}
+
+.table-name-input{font-family: Arial, sans-serif;}
+
+.input-check-dupe,.input-check-dupe:focus{color: transparent; background-color: transparent; caret-color: black;}
+.input-check-dupe,.display-check-dupe {position: absolute;font-family: Arial, sans-serif;overflow: auto}
+.display-check-dupe {word-wrap: break-word;}
+#loader {
+    display: none;
+}
+
+.title-content {
+    position: relative;
+    height: 4rem;
+}
+.title-content-keywords {
+    height: 14rem;
+}
+
+textarea {
+    resize: none;
+}
